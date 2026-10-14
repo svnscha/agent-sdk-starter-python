@@ -1,0 +1,6 @@
+[project]
+name = "agent-sdk-starter-python"
+version = "0.1.0"
+description = "A small Python starting point for programmable Claude sessions."
+requires-python = ">=3.11"
+dependencies = ["claude-agent-sdk==0.2.167"]
